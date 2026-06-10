@@ -1,0 +1,2 @@
+this repository is used to practice github pull requests
+this file is created to understand commits and branches
